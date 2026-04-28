@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../CalculatorLibrary.urasylmaz1/CalculatorLibrary.urasylmaz1.csproj" />
+  <Project Path="Calculator.urasylmaz1.csproj" />
+</Solution>
